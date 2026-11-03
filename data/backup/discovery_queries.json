@@ -1,0 +1,362 @@
+[
+  {
+    "id": "c4c1b7e7-08b0-4910-a1dc-7dba67ec56f7",
+    "query": "\"atv canli\" m3u8",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 6,
+    "last_run_at": "2026-10-31T12:00:40.301+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "563d855c-3b50-4ce1-ace8-d16654ffc243",
+    "query": "turk dizileri canli m3u8",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 1570,
+    "last_run_at": "2026-10-31T12:00:40.453+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "a2d231da-07f5-44bd-be97-0b0befb0573e",
+    "query": "\"index of\" m3u8",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 349,
+    "last_run_at": "2026-10-31T12:01:15.031+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "93d386fa-4eec-48e5-976c-5808dd73bbe2",
+    "query": "atv canli m3u8",
+    "engine": "github",
+    "active": true,
+    "hit_count": 0,
+    "last_run_at": "2026-10-31T18:00:03.049+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "14c2229e-0bf0-4f8a-99b5-2d44b9ff7b26",
+    "query": "trt m3u8",
+    "engine": "github",
+    "active": true,
+    "hit_count": 56,
+    "last_run_at": "2026-10-31T18:00:03.329+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "b9d31115-da1f-4424-bac4-a03eb980b23f",
+    "query": "spor m3u8 turkiye",
+    "engine": "github",
+    "active": true,
+    "hit_count": 84,
+    "last_run_at": "2026-10-31T18:00:03.669+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "0fb4845e-84e2-42bb-bbc0-35cee1d23076",
+    "query": "inurl:stream.m3u8 tv",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 3650,
+    "last_run_at": "2026-10-31T18:00:05.265+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "13ee58fb-cac5-453e-a33d-033e07e4243e",
+    "query": "hdfilmcehennemi guncel",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 200,
+    "last_run_at": "2026-11-01T00:00:38.097+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "11352a12-75cb-4bc0-b2cf-4427c9b0ab4b",
+    "query": "dizibox guncel bolum m3u8",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 1410,
+    "last_run_at": "2026-10-31T18:00:05.47+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "49665800-2515-42f7-bdda-fcad7441650f",
+    "query": "inurl:m3u8 kanal d",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 350,
+    "last_run_at": "2026-10-31T18:00:05.479+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "2bf5570c-6603-4f59-9707-776588e7f938",
+    "query": "dizipal guncel m3u8",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 230,
+    "last_run_at": "2026-10-31T18:00:05.736+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "011e336d-f43f-4327-bc2b-e4657cbee347",
+    "query": "iptv playlist tr",
+    "engine": "github",
+    "active": true,
+    "hit_count": 81,
+    "last_run_at": "2026-10-31T18:00:05.861+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "31aef7ea-57e3-4921-ae5d-80e06df1a3e6",
+    "query": "inurl:playlist.m3u8",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 0,
+    "last_run_at": "2026-11-01T00:00:54.134+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "607e59d7-9554-40e4-9b65-2e8392b19a89",
+    "query": "inurl:m3u8 tv8 canli",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 290,
+    "last_run_at": "2026-11-01T00:00:55.447+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "c1c02658-a634-4773-ab7a-f5ee6eb48da8",
+    "query": "inurl:m3u8 show tv",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 1390,
+    "last_run_at": "2026-10-31T06:00:05.259+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "53f1f677-5e82-41f7-8125-55fc18333637",
+    "query": "star tv m3u8 stream",
+    "engine": "github",
+    "active": true,
+    "hit_count": 13,
+    "last_run_at": "2026-10-31T06:00:05.629+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "92b8cffd-b35f-47b7-82a4-b9c8b834ab45",
+    "query": "intitle:\"iptv playlist\" m3u",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 310,
+    "last_run_at": "2026-10-31T06:00:05.864+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "788fa88d-863c-4cae-95df-1ab9bbfd2a7d",
+    "query": "inurl:m3u8 tivibu spor",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 310,
+    "last_run_at": "2026-10-31T06:00:06.486+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "eb60eac0-38bf-4810-8238-849e87713b07",
+    "query": "turkish iptv m3u8",
+    "engine": "github",
+    "active": true,
+    "hit_count": 0,
+    "last_run_at": "2026-10-31T12:00:04.138+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "a8e995d1-e9b2-4707-a286-dc8150c00f06",
+    "query": "kanal d m3u8",
+    "engine": "github",
+    "active": true,
+    "hit_count": 0,
+    "last_run_at": "2026-10-31T12:00:04.17+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "0861259d-088a-44cc-879e-3e7e6d778cf2",
+    "query": "bein sport m3u8 turkey",
+    "engine": "github",
+    "active": true,
+    "hit_count": 0,
+    "last_run_at": "2026-10-31T12:00:04.394+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "46d532f7-ea39-445d-b330-bd6fa9f293ad",
+    "query": "turkiye iptv m3u playlist",
+    "engine": "github",
+    "active": true,
+    "hit_count": 0,
+    "last_run_at": "2026-10-31T12:00:04.44+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "cc58112a-d4d1-471d-bf82-f2aca2a9a706",
+    "query": "tv8 m3u8",
+    "engine": "github",
+    "active": true,
+    "hit_count": 0,
+    "last_run_at": "2026-10-31T12:00:04.882+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "045a00ac-e14f-4af8-8293-a0629bbfb840",
+    "query": "inurl:m3u8 atv canli",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 1490,
+    "last_run_at": "2026-10-31T12:00:39.433+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "100b3367-7786-48cd-85b4-1330c891857b",
+    "query": "\"star tv\" canli izle m3u8",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 1080,
+    "last_run_at": "2026-10-31T18:00:06.171+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "f1d9caab-c97d-4b35-a493-9918d2428549",
+    "query": "inurl:m3u8 star tv",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 220,
+    "last_run_at": "2026-10-31T12:00:39.68+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "e6debd4c-92ed-46a8-a52d-9b3cbf54efe6",
+    "query": "\"index of\" m3u iptv",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 30,
+    "last_run_at": "2026-10-31T18:00:06.223+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "5e4be5df-ad60-4dce-8cda-fbf59eb4e405",
+    "query": "filetype:m3u iptv turkey",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 10,
+    "last_run_at": "2026-10-31T18:00:08.511+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "e277d796-c5c2-4bd4-b2a3-11164c7008b5",
+    "query": "inurl:m3u8 now tv fox",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 1480,
+    "last_run_at": "2026-10-31T18:00:08.635+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "8d633c39-93e7-4575-98bd-ccec9b1a3934",
+    "query": "iptv m3u turkey 2026",
+    "engine": "github",
+    "active": true,
+    "hit_count": 0,
+    "last_run_at": "2026-11-01T00:00:02.22+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "125f888b-13ef-4f00-b273-6d61d7eed1a0",
+    "query": "turkish live tv m3u",
+    "engine": "github",
+    "active": true,
+    "hit_count": 75,
+    "last_run_at": "2026-11-01T00:00:02.857+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "10c45715-b310-4671-83aa-946b1630e4bc",
+    "query": "\"kanal d\" canli izle m3u8",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 1341,
+    "last_run_at": "2026-10-31T12:00:39.839+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "f7939fb3-24a3-4ba7-b65e-0ff574cf894e",
+    "query": "now tv fox m3u8",
+    "engine": "github",
+    "active": true,
+    "hit_count": 0,
+    "last_run_at": "2026-11-01T00:00:03.128+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "8b97eb0e-fe8a-419c-b560-af5f8b8d5e3d",
+    "query": "show tv m3u8",
+    "engine": "github",
+    "active": true,
+    "hit_count": 72,
+    "last_run_at": "2026-11-01T00:00:03.998+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "84698deb-aade-4b04-afeb-ab3d00e264a0",
+    "query": "sinemazenger m3u8",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 3834,
+    "last_run_at": "2026-11-01T00:00:17.728+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "a952a68e-3d70-48f1-83fd-5df74a1e7350",
+    "query": "fullhdfilmizlesene guncel dizi",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 1610,
+    "last_run_at": "2026-11-01T00:00:19.022+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "e1e10d11-694d-49a5-a30c-87b8dfa4efeb",
+    "query": "inurl:m3u8 s sport",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 290,
+    "last_run_at": "2026-11-01T00:00:38.134+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "323d2332-fa33-4265-aeba-dedc2b005cf8",
+    "query": "inurl:m3u8 trt 1 canli",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 160,
+    "last_run_at": "2026-11-01T00:00:38.144+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "c2f58d2a-cd87-4db5-95a3-8f23c6525b57",
+    "query": "filetype:m3u8 turkiye",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 161,
+    "last_run_at": "2026-10-31T12:00:39.993+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  },
+  {
+    "id": "e697188d-9d39-40fc-ae61-d6a28965f3a8",
+    "query": "inurl:m3u8 bein sport",
+    "engine": "duckduckgo",
+    "active": true,
+    "hit_count": 1272,
+    "last_run_at": "2026-11-01T00:00:38.218+00:00",
+    "created_at": "2026-07-11T02:42:37.036914+00:00"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Core Stream Engine",
+  "description": "Otonom akış kazıma, doğrulama, sınıflandırma ve IPTV besleme motoru yönetim konsolu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
